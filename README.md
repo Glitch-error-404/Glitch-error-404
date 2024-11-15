@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glitch-error-404
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning AI 
+- 👀 I’m interested in 'ethical' hacking and AI
+- 🌱 I’m currently learning AI and hacking
 - 💞️ I’m looking to collaborate on Website project
 - 📫 How to reach me akdrama674@gmail.com
 - 😄 Pronouns: she/her
